@@ -16,10 +16,18 @@ experience:
 - company: Delta Dore
   position: Stagiaire
   timeperiod: Avril 2017 - mai 2017
-  description: Réalisation d'un systéme de test pour du matériel de test. Programmation en C# et réalisation de carte éléctronique.
+  description: Réalisation d'un systéme de test pour du matériel de test.
+               Programmation en C# et réalisation de cartes éléctroniques.
+               
+experience_perso:
 - company: Global Game Jam Rennes 2017
-  position: Programmeur
   timeperiod: 26 juin - 28 juin
+  description: Réalisation d'un plateformer 2d sous Unity en 48h, en équipe avec 2 autres élèves de l'Esir.
+
+- company: Court d'innovation
+  position: 
+  timeperiod: Septembre 2017 - ajourd'hui
+  description: Conception d'une application Android permettant de s'orienter grâce à la musique.
 
 education:
 - degree: DUT Génie Éléctronique et Informatique Industrielle
@@ -48,6 +56,12 @@ skills:
   level: 40
 knowledge: Suite Microsoft Office, Libre Office.
   (English and Klingon).
+
+loisirs:
+- name: Membre d'une troupe de thêatre amateur
+- name: Course à pied
+- name: Lecture
+- name: Programmation
 
 contact:
   email: matthiaspinard@gmail.com
