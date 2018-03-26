@@ -6,7 +6,7 @@ name:
 about: Hi, my name is John Doe. I"m just about the most boring type of person you could
        possibly imagine. I like collecting leaves from the tree in my back yard and documenting
        each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
-position: Étudiant en informatique
+position: Elève ingénieur en informatique
 
 birth:
   year: 1997
@@ -16,20 +16,21 @@ experience:
 - company: Delta Dore
   position: Stagiaire
   timeperiod: Avril 2017 - mai 2017
-  description: Réalisation d'un systéme de test pour du matériel de test.
-               Programmation en C# et réalisation de cartes éléctroniques.
+  description: Réalisation d'un système de test pour les modules d'une centrale d'acquisition de données.
+               Réalisation de cartes éléctroniques, programmation en C# et réalisation d'une interface graphique WPF.
                
 experience_perso:
 - company: Global Game Jam Rennes 2017
   timeperiod: 26 juin - 28 juin
-  description: Réalisation d'un plateformer 2d sous Unity en 48h, en équipe avec 2 autres élèves de l'Esir.
+  description: Réalisation d'un plateformer 2d sous Unity en 48h, en équipe avec 2 autres étudiants de l'Esir.
 
-- company: Court d'innovation
-  position: 
+- company: Court d'innovation et politique
   timeperiod: Septembre 2017 - ajourd'hui
-  description: Conception d'une application Android permettant de s'orienter grâce à la musique.
+  description: Conception d'une application Android permettant de s'orienter grâce à de la musique.
 
 education:
+- degree: École Supérieure d'Ingénieurs de Rennes
+  timeperiod: Septembre 2017 - ajourd'hui
 - degree: DUT Génie Éléctronique et Informatique Industrielle
   timeperiod: Septembre 2015 - Juin 2017
   description:
@@ -38,8 +39,10 @@ education:
 skills:
 - name: Java
   level: 99
-- name: Android
+- name: C#
   level: 99
+- name: Android
+  level: 85
 - name: C++
   level: 85
 - name: Linux
@@ -49,11 +52,11 @@ skills:
 - name: C
   level: 80
 - name: Javascript
-  level: 50 
+  level: 65 
 - name: HTML5
-  level: 45
+  level: 65
 - name: CSS3
-  level: 40
+  level: 65
 knowledge: Suite Microsoft Office, Libre Office.
   (English and Klingon).
 

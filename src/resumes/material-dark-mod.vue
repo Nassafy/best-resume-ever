@@ -208,9 +208,9 @@ a {
   letter-spacing:3px;
   font-size:10pt;
   opacity:0.8;
-  margin-left:20px;
-  margin-top:40px;
-  margin-bottom:20px;
+  margin-left:17px;
+  margin-top:23px;
+  margin-bottom:15px;
   color:#3f3d3c;
 }
 .c {
