@@ -96,7 +96,7 @@
         </p>
     </div>
 
-    <div class="section-headline">{{ lang.experience_perso }}</div>
+    <!-- <div class="section-headline">{{ lang.experience_perso }}</div>
     <div class="block" v-for="experience in person.experience_perso" :key="experience.company">
       <div class="block-helper"></div>
       <h3 class="headline">{{experience.company}}</h3>
@@ -104,14 +104,15 @@
         <p class="info">
           {{experience.description}}
         </p>
-    </div>
+    </div> -->
 
     <div class="section-headline">{{ lang.education }}</div>
     <div class="block" v-for="education in person.education" :key="education.degree">
       <div class="block-helper"></div>
       <div class="headline">{{education.degree}}</div>
       <p class="info">
-        {{education.timeperiod}}, {{education.description}}
+        {{education.timeperiod}}
+        <!-- , {{education.description}} -->
       </p>
     </div>
 

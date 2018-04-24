@@ -29,7 +29,7 @@ experience_perso:
   description: Conception d'une application Android permettant de s'orienter grâce à de la musique.
 
 education:
-- degree: École Supérieure d'Ingénieurs de Rennes
+- degree: ESIR (École Supérieure d'Ingénieurs de Rennes)
   timeperiod: Septembre 2017 - ajourd'hui
 - degree: DUT Génie Éléctronique et Informatique Industrielle
   timeperiod: Septembre 2015 - Juin 2017
@@ -38,25 +38,23 @@ education:
 # skill level goes 0 to 100
 skills:
 - name: Java
-  level: 99
+  level: 65
 - name: C#
-  level: 99
+  level: 60
 - name: Android
-  level: 85
+  level: 60
 - name: C++
-  level: 85
+  level: 55
 - name: Linux
-  level: 95
-- name: assembleur
-  level: 70
+  level: 60
 - name: C
-  level: 80
+  level: 50
 - name: Javascript
-  level: 65 
+  level: 40 
 - name: HTML5
-  level: 65
+  level: 40
 - name: CSS3
-  level: 65
+  level: 40
 knowledge: Suite Microsoft Office, Libre Office.
   (English and Klingon).
 
@@ -65,6 +63,14 @@ loisirs:
 - name: Course à pied
 - name: Lecture
 - name: Programmation
+- name: Game Jam
+- name: Musique (clarinette)
+
+language:
+- name: Anglais courant  
+  description: niveau moyen
+- name: Anglais technique
+  description: excellent niveau
 
 contact:
   email: matthiaspinard@gmail.com
